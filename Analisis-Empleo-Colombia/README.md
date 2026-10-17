@@ -93,20 +93,6 @@ y ubicarlo en la ruta correspondiente dentro del entorno local.
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto
-
-1. Clonar el repositorio:
-
-https://github.com/gvillazon12/analisis-empleo-colombia.git
-
-3. Abrir el archivo `analisis_empleo.R` en RStudio  
-
-4. Ajustar la ruta del archivo de datos  
-
-5. Ejecutar el script completo  
-
----
-
 ## 👤 Sobre mí
 Soy estadístico con enfoque en análisis de datos, modelado estadístico y visualización de información.
 
